@@ -1,0 +1,163 @@
+[
+    [
+        { "attribute": "PosOrizzontale","value": 100 },
+        { "attribute": "PosVerticale","value": 100 },
+        { "attribute": "Lunghezza","value": 100 },
+        { "attribute": "LarghezzaAli","value": 50 },
+        { "attribute": "DimensioneCoda","value": 70 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 230 },
+        { "attribute": "PosVerticale","value": 230 },
+        { "attribute": "Lunghezza","value": 60 },
+        { "attribute": "LarghezzaAli","value": 40 },
+        { "attribute": "DimensioneCoda","value": 60 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 240 },
+        { "attribute": "PosVerticale","value": 130 },
+        { "attribute": "Lunghezza","value": 84 },
+        { "attribute": "LarghezzaAli","value": 180 },
+        { "attribute": "DimensioneCoda","value": 100 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 310 },
+        { "attribute": "PosVerticale","value": 320 },
+        { "attribute": "Lunghezza","value": 50 },
+        { "attribute": "LarghezzaAli","value": 37 },
+        { "attribute": "DimensioneCoda","value": 60 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 380 },
+        { "attribute": "PosVerticale","value": 250 },
+        { "attribute": "Lunghezza","value": 105 },
+        { "attribute": "LarghezzaAli","value": 85 },
+        { "attribute": "DimensioneCoda","value": 95 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 450 },
+        { "attribute": "PosVerticale","value": 375 },
+        { "attribute": "Lunghezza","value": 70 },
+        { "attribute": "LarghezzaAli","value": 65 },
+        { "attribute": "DimensioneCoda","value": 50 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 460 },
+        { "attribute": "PosVerticale","value": 218 },
+        { "attribute": "Lunghezza","value": 97 },
+        { "attribute": "LarghezzaAli","value": 83 },
+        { "attribute": "DimensioneCoda","value": 76 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 610 },
+        { "attribute": "PosVerticale","value": 200 },
+        { "attribute": "Lunghezza","value": 115 },
+        { "attribute": "LarghezzaAli","value": 70 },
+        { "attribute": "DimensioneCoda","value": 65 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 680 },
+        { "attribute": "PosVerticale","value": 320 },
+        { "attribute": "Lunghezza","value": 135 },
+        { "attribute": "LarghezzaAli","value": 100 },
+        { "attribute": "DimensioneCoda","value": 100 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 400 },
+        { "attribute": "PosVerticale","value": 70 },
+        { "attribute": "Lunghezza","value": 120 },
+        { "attribute": "LarghezzaAli","value": 90 },
+        { "attribute": "DimensioneCoda","value": 70 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 110 },
+        { "attribute": "PosVerticale","value": 370 },
+        { "attribute": "Lunghezza","value": 95 },
+        { "attribute": "LarghezzaAli","value": 77 },
+        { "attribute": "DimensioneCoda","value": 88 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 140 },
+        { "attribute": "PosVerticale","value": 210 },
+        { "attribute": "Lunghezza","value": 85 },
+        { "attribute": "LarghezzaAli","value": 120 },
+        { "attribute": "DimensioneCoda","value": 150 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 200 },
+        { "attribute": "PosVerticale","value": 320 },
+        { "attribute": "Lunghezza","value": 70 },
+        { "attribute": "LarghezzaAli","value": 130 },
+        { "attribute": "DimensioneCoda","value": 130 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 510 },
+        { "attribute": "PosVerticale","value": 290 },
+        { "attribute": "Lunghezza","value": 60 },
+        { "attribute": "LarghezzaAli","value": 30 },
+        { "attribute": "DimensioneCoda","value": 57 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 720 },
+        { "attribute": "PosVerticale","value": 190 },
+        { "attribute": "Lunghezza","value": 50 },
+        { "attribute": "LarghezzaAli","value": 67 },
+        { "attribute": "DimensioneCoda","value": 96 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 490 },
+        { "attribute": "PosVerticale","value": 130 },
+        { "attribute": "Lunghezza","value": 50 },
+        { "attribute": "LarghezzaAli","value": 125 },
+        { "attribute": "DimensioneCoda","value": 40 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 360 },
+        { "attribute": "PosVerticale","value": 180 },
+        { "attribute": "Lunghezza","value": 90 },
+        { "attribute": "LarghezzaAli","value": 100 },
+        { "attribute": "DimensioneCoda","value": 150 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 740 },
+        { "attribute": "PosVerticale","value": 370 },
+        { "attribute": "Lunghezza","value": 45 },
+        { "attribute": "LarghezzaAli","value": 97 },
+        { "attribute": "DimensioneCoda","value": 105 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 660 },
+        { "attribute": "PosVerticale","value": 110 },
+        { "attribute": "Lunghezza","value": 130 },
+        { "attribute": "LarghezzaAli","value": 88 },
+        { "attribute": "DimensioneCoda","value": 80 }
+    ],
+
+    [
+        { "attribute": "PosOrizzontale","value": 560 },
+        { "attribute": "PosVerticale","value": 410 },
+        { "attribute": "Lunghezza","value":  80 },
+        { "attribute": "LarghezzaAli","value": 170 },
+        { "attribute": "DimensioneCoda","value": 100 }
+    ]
+
+
+]
